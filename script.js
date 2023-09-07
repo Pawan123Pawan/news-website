@@ -1,4 +1,4 @@
-const api_key = "1728ae496dcb4c098a7493e77fbb8cc7";
+const api_key = "38da9f4d512143b29d2e748af080dbf4";
 const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load",()=>{
